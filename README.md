@@ -1,0 +1,1 @@
+This example demonstrates a common but subtle bug in Ruby: directly modifying instance variables outside of the class's methods. While it might seem convenient, it undermines encapsulation and can cause maintainability issues.  The solution shows how to use accessor methods to maintain a clean and predictable interface.
